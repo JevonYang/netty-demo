@@ -3,6 +3,7 @@ package com.yang.netty;
 import static org.junit.Assert.assertTrue;
 
 import com.google.protobuf.ByteString;
+import com.yang.netty.entity.PersonModel;
 import org.junit.Test;
 
 /**
