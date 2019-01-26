@@ -10,11 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>client</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
-    <name>client Maven Webapp</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <name>Client4Netty</name>
+    <url>http://jevonyang.github.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
